@@ -1,0 +1,21 @@
+E:\kaifa\C#\UPH 趋势\bin\Release\UPH 趋势.exe.config
+E:\kaifa\C#\UPH 趋势\bin\Release\UPH 趋势.exe
+E:\kaifa\C#\UPH 趋势\bin\Release\UPH 趋势.pdb
+E:\kaifa\C#\UPH 趋势\bin\Release\BouncyCastle.Crypto.dll
+E:\kaifa\C#\UPH 趋势\bin\Release\Google.Protobuf.dll
+E:\kaifa\C#\UPH 趋势\bin\Release\Renci.SshNet.dll
+E:\kaifa\C#\UPH 趋势\bin\Release\System.Data.Common.dll
+E:\kaifa\C#\UPH 趋势\bin\Release\System.Data.SqlClient.dll
+E:\kaifa\C#\UPH 趋势\bin\Release\Google.Protobuf.xml
+E:\kaifa\C#\UPH 趋势\bin\Release\Renci.SshNet.xml
+E:\kaifa\C#\UPH 趋势\bin\Release\Interop.WMPLib.dll
+E:\kaifa\C#\UPH 趋势\bin\Release\AxInterop.WMPLib.dll
+E:\kaifa\C#\UPH 趋势\obj\Release\Interop.WMPLib.dll
+E:\kaifa\C#\UPH 趋势\obj\Release\AxInterop.WMPLib.dll
+E:\kaifa\C#\UPH 趋势\obj\Release\UPH 趋势.csproj.ResolveComReference.cache
+E:\kaifa\C#\UPH 趋势\obj\Release\UPH_趋势.Form1.resources
+E:\kaifa\C#\UPH 趋势\obj\Release\UPH_趋势.Properties.Resources.resources
+E:\kaifa\C#\UPH 趋势\obj\Release\UPH 趋势.csproj.GenerateResource.cache
+E:\kaifa\C#\UPH 趋势\obj\Release\UPH 趋势.csproj.CopyComplete
+E:\kaifa\C#\UPH 趋势\obj\Release\UPH 趋势.exe
+E:\kaifa\C#\UPH 趋势\obj\Release\UPH 趋势.pdb

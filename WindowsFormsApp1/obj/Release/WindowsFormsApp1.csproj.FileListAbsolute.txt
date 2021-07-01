@@ -1,0 +1,15 @@
+G:\C#\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+G:\C#\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+G:\C#\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+G:\C#\WindowsFormsApp1\bin\Release\ICSharpCode.SharpZipLib.dll
+G:\C#\WindowsFormsApp1\bin\Release\Interop.WMPLib.dll
+G:\C#\WindowsFormsApp1\bin\Release\AxInterop.WMPLib.dll
+G:\C#\WindowsFormsApp1\obj\Release\Interop.WMPLib.dll
+G:\C#\WindowsFormsApp1\obj\Release\AxInterop.WMPLib.dll
+G:\C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.ResolveComReference.cache
+G:\C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+G:\C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+G:\C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+G:\C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+G:\C#\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
